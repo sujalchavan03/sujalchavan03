@@ -45,12 +45,15 @@ I enjoy building secure, scalable, and beautiful digital experiences — from **
 
 ---
 
-🧑‍🏫 Together Academy: Coaching Institute Website (Jul 2025)
+## 🧑‍🏫 Together Academy: Coaching Institute Website (Jul 2025)
+
 🎓 Developed a clean, responsive website for a programming coaching institute to showcase courses, syllabus, testimonials, and real-time WhatsApp chat.
-Frontend: HTML, CSS, JavaScript
-Deployment: GitHub Pages
-Features: Course showcase, unit-wise syllabus, testimonials, mobile-friendly UI, WhatsApp chat integration
-🔗 Live Demo | 🔗 GitHub Repo
+
+**Frontend**: HTML, CSS, JavaScript  
+**Deployment**: GitHub Pages  
+**Features**:Course showcase, Unit-wise syllabus display, Testimonials section, Mobile-friendly responsive UI, WhatsApp chat integration
+
+🔗 [Live Demo](https://sujalchavan03.github.io/TogetherAcademy) | 🔗 [GitHub Repo](https://github.com/sujalchavan03/TogetherAcademy)
 
 ---
 
