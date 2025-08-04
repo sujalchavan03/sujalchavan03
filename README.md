@@ -45,6 +45,15 @@ I enjoy building secure, scalable, and beautiful digital experiences — from **
 
 ---
 
+🧑‍🏫 Together Academy: Coaching Institute Website (Jul 2025)
+🎓 Developed a clean, responsive website for a programming coaching institute to showcase courses, syllabus, testimonials, and real-time WhatsApp chat.
+Frontend: HTML, CSS, JavaScript
+Deployment: GitHub Pages
+Features: Course showcase, unit-wise syllabus, testimonials, mobile-friendly UI, WhatsApp chat integration
+🔗 Live Demo | 🔗 GitHub Repo
+
+---
+
 ### 🛍️ Om Sai Traders Web Application *(May 2024)*  
 🔐 Designed & developed a **secure enterprise-grade web app** for inventory and user access management.  
 **Tech Stack:** Django, SQLite, Multithreading  
